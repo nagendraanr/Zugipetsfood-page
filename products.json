@@ -1,0 +1,293 @@
+[
+    {
+        "id": 1,
+        "name":" HAND-FEEDING",
+        "price": 200,
+        "image": "brd1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" BUDGIES FOOD",
+        "price": 250,
+        "image": "brd2.webp"
+    },
+    {
+        "id": 3,
+        "name":" BIRD FOOD",
+        "price": 290,
+        "image": "brd3.webp"
+    },
+    {
+        "id": 4,
+        "name":" WAGZEE",
+        "price": 190,
+        "image": "brd4.webp"
+    },
+    {
+        "id": 5,
+        "name":" SMAKERS SNACK",
+        "price": 300,
+        "image": "brd5.webp"
+    },
+    {
+        "id": 6,
+        "name":" BUDGIES",
+        "price": 220,
+        "image": "brd6.webp"
+    },
+    {
+        "id": 7,
+        "name":" BIRD FOOD seeds mix",
+        "price": 210,
+        "image": "brd7.webp"
+    },
+    {
+        "id": 8,
+        "name":" TOYAM SEEDS",
+        "price": 220,
+        "image": "brd8.webp"
+    },
+    {
+        "id": 9,
+        "name":" SEEDS BLEND",
+        "price": 260,
+        "image": "brd9.webp"
+    },
+    {
+        "id": 10,
+        "name":" WILD BIRD FOOD",
+        "price": 259,
+        "image": "brd10.webp"
+    },
+    {
+        "id": 11,
+        "name":" COCKATIEL & LOVEBIRD FOOD",
+        "price": 260,
+        "image": "brd11.webp"
+    },
+    {
+        "id": 12,
+        "name":" PETNEST",
+        "price": 300,
+        "image": "brd12.webp"
+    },
+    {
+        "id": 13,
+        "name":" PRESTIGE SEEDS",
+        "price": 310,
+        "image": "brd13.webp"
+    },
+    {
+        "id": 14,
+        "name":" FOODIE PUPPIES",
+        "price": 240,
+        "image": "brd14.webp"
+    },
+    {
+        "id": 15,
+        "name":" PESTLIFE SEEDS",
+        "price": 220,
+        "image": "brd15.webp"
+    },
+    {
+        "id": 15.1,
+        "name":" WILD BIRD FOOD",
+        "price": 270,
+        "image": "brd.jpeg"
+    },
+   
+    {
+        "id": 16,
+        "name":" WHISKAS",
+        "price": 259,
+        "image": "cat1.webp"
+    },
+    {
+        "id": 17,
+        "name":" FLIX",
+        "price": 245,
+        "image": "cat2.webp"
+    },
+    {
+        "id": 18,
+        "name":" SKIN & COAT",
+        "price": 260,
+        "image": "cat3.webp"
+    },
+    {
+        "id": 19,
+        "name":" LET'S BITE",
+        "price": 400,
+        "image": "cat4.webp"
+    },
+    {
+        "id": 20,
+        "name":" PUREPET",
+        "price": 310,
+        "image": "cat5.webp"
+    },
+    {
+        "id": 21,
+        "name":" MEAT UP",
+        "price": 210,
+        "image": "cat6.webp"
+    },
+    {
+        "id": 22,
+        "name":" TITO BOO",
+        "price": 300,
+        "image": "cat7.webp"
+    },
+    {
+        "id": 23,
+        "name":" FANCY FEAST",
+        "price": 290,
+        "image": "cat8.webp"
+    },
+    {
+        "id": 24,
+        "name":" FRISKIES",
+        "price": 220,
+        "image": "cat9.webp"
+    },
+    {
+        "id": 25,
+        "name":" SIX FISH",
+        "price": 280,
+        "image": "cat10.webp"
+    },
+    {
+        "id": 26,
+        "name":" TITO BOO",
+        "price": 230,
+        "image": "cat11.webp"
+    },
+    {
+        "id": 27,
+        "name":" ME - O",
+        "price": 270,
+        "image": "cat12.webp"
+    },
+    {
+        "id": 28,
+        "name":" BELLOTTA",
+        "price": 240,
+        "image": "cat13.webp"
+    },
+    {
+        "id": 29,
+        "name":" SHEBA",
+        "price": 260,
+        "image": "cat14.webp"
+    },
+    {
+        "id": 30,
+        "name":" CATAHOLIC",
+        "price": 250,
+        "image": "cat15.webp"
+    },
+    {
+        "id": 30.1,
+        "name":" SPECIAL KITTY",
+        "price": 320,
+        "image": "cat15.1.jpeg"
+    },
+    {
+        "id": 31,
+        "name":" PEDIGREE",
+        "price": 270,
+        "image": "dog1.jpg"
+    },
+    {
+        "id": 32,
+        "name":" DROOLS",
+        "price": 290,
+        "image": "dog2.webp"
+    },
+    {
+        "id": 33,
+        "name":" PUREPET",
+        "price": 299,
+        "image": "dog3.webp"
+    },
+    {
+        "id": 34,
+        "name":" MEAT UP",
+        "price": 500,
+        "image": "dog4.webp"
+    },
+    {
+        "id": 35,
+        "name":" DROOLS",
+        "price": 295,
+        "image": "dog5.webp"
+    },
+    {
+        "id": 36,
+        "name":" DROOLS",
+        "price": 380,
+        "image": "dog6.webp"
+    },
+    {
+        "id": 37,
+        "name":" HENLO",
+        "price": 299,
+        "image": "dog7.webp"
+    },
+    {
+        "id": 38,
+        "name":" PEDIGREE",
+        "price": 298,
+        "image": "dog8.webp"
+    },
+    {
+        "id": 39,
+        "name":" CANINE",
+        "price": 310,
+        "image": "dog9.webp"
+    },
+    {
+        "id": 40,
+        "name":" SUPERCOAT",
+        "price": 200,
+        "image": "dog10.webp"
+    },
+    {
+        "id": 41,
+        "name":" ROYAL CANIN",
+        "price": 300,
+        "image": "dog11.webp"
+    },
+    {
+        "id": 42,
+        "name":" HIMALAYA",
+        "price": 210,
+        "image": "dog12.webp"
+    },
+    {
+        "id": 43,
+        "name":" KINNEL KITCHEN",
+        "price": 290,
+        "image": "dog13.webp"
+    },
+    {
+        "id": 44,
+        "name":" DROOLS FOCUS",
+        "price": 220,
+        "image": "dog14.webp"
+    },
+    {
+        "id": 45,
+        "name":" PROMISE",
+        "price": 280,
+        "image": "dog15.webp"
+    },
+    {
+        "id": 45.1,
+        "name":" NATURAL BALANCE",
+        "price": 230,
+        "image": "dog15.1.jpeg"
+    }
+    
+
+]
